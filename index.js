@@ -12,7 +12,6 @@ console.log(divizibilCuZece(100));
 console.log("Exemplu 2: input: 23");
 console.log(divizibilCuZece(23));
 
-console.log("------------------");
 console.log("Exercitiu 2.");
 
 //2. Scrieți o funcție numită tellFortune care:
