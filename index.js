@@ -1,6 +1,3 @@
-    //osztasi maradek neve mod, jele: % pl:
-    //osztasi hanyados neve div, jele: /
-
 //1. Returnează un boolean dacă un număr este divizibil cu 10
 
 function divizibilCuZece(myNumber)  {
